@@ -1,6 +1,6 @@
 # Internship Project Report: New Camera Allocation to existing CCTV network at NALCO Smelter Plant
 
-During my internship at the NALCO smelter plant, I was assigned a project by my guide, Mr. Ajoy Maharana, Deputy Manager of Electronics and Instrumentation, to enhance the plant’s security by allocating 50 new PTZ and bullet cameras. 
+During my internship at the NALCO smelter plant, I was assigned a project by my guide, Deputy Manager of Electronics and Instrumentation, to enhance the plant’s security by allocating 50 new PTZ and bullet cameras. 
 
 
 
