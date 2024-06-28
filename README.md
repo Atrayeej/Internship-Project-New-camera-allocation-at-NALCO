@@ -1,7 +1,7 @@
 # Internship Project Report: New Camera Allocation to existing CCTV network at NALCO Smelter Plant
 
 During my internship at the NALCO smelter plant, I was assigned a project by my guide, Deputy Manager of Electronics and Instrumentation, to enhance the plant’s security by allocating 50 new PTZ and bullet cameras. 
-
+![Boundry cameras](https://github.com/Atrayeej/Internship-Project-New-camera-allocation-at-NALCO/blob/main/Smelter%20plant%20boundry.png?raw=true)
 
 
 ## Project Steps
@@ -15,10 +15,16 @@ During my internship at the NALCO smelter plant, I was assigned a project by my 
    - Identified entry and exit points for vehicles, vulnerable spots prone to theft, and other critical zones within the plant premises.
    - Discovered several black spots that were previously left uncovered by the existing camera network, posing significant security risks.
 
-3. **Calculating Requirements**: 
+     ![Existing locations](https://github.com/Atrayeej/Internship-Project-New-camera-allocation-at-NALCO/blob/main/location%20map.png?raw=true)
+
+
+3.   **Calculating Requirements**: 
    - Calculated the required network speed.
    - Determined the number of switches and NVRs needed.
    - Pinpointed the specifications and requirements for each camera, which will be communicated to the proposed CCTV production company.
+ ![Specifications](https://github.com/Atrayeej/Internship-Project-New-camera-allocation-at-NALCO/blob/main/Technical%20specification1.png?raw=true)
+![Specifications](https://github.com/Atrayeej/Internship-Project-New-camera-allocation-at-NALCO/blob/main/specification%202%20and%203.png?raw=true)
+     
 
 ## Recommendations
 
@@ -31,6 +37,7 @@ During my internship at the NALCO smelter plant, I was assigned a project by my 
 - **Firewall Configurations**: 
   - Recommended proper firewall configurations to protect against potential cyber threats.
   - Secure the network and maintain the integrity of the surveillance system.
+    
 
 ## Conclusion
 
